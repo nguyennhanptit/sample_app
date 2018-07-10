@@ -1,4 +1,5 @@
 vi:
+  base_title: "Ưngs dụng mẫu Ruby on Rails Tutorial"
   static_pages:
     home:
       title: "Trang Chủ"
