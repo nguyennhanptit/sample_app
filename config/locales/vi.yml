@@ -5,6 +5,7 @@ vi:
       title: "Trang Chủ"
       h1_tag: "ứng dụng mẫu"
       content_html: Đây là trang chủ <a href="http://www.railstutorial.org/">Ruby on Rails Tutorial</a> của ứng dụng mẫu
+      sign_up: "Đăng ký ngay!"
     help:
       title: "Trợ giúp"
       h1_tag: "Trợ giúp"
@@ -13,3 +14,21 @@ vi:
       title: "Giới thiệu"
       h1_tag: "Giới thiệu"
       content_html: <a href="http://www.railstutorial.org/"><em>Ruby on Rails Tutorial</em></a> là một <a href="http://www.railstutorial.org/book">cuốn sách</a> và <a href="http://screencasts.railstutorial.org/">các bài học </a> dạy lập trình với <a href="http://rubyonrails.org/">Ruby on Rails</a>. Đây là một ứng dụng mẫu trong gíao trình.
+    contact:
+      title: "Liên hệ"
+      h1_tag: "Liên hệ"
+      content_html: Liên hệ tới Hướng dẫn Ruby on Rails Tutorial về ứng dụng mẫu tại <a href="http://www.railstutorial.org/contact">trang liên hệ</a>.
+  users:
+    new:
+      title: "Đăng ký"
+      h1_tag: "Đăng ký"
+      content_html: Đây sẽ là một trang đăng ký dành cho người mới sử dụng.
+  layouts:
+    footer:
+      about: "Giới thiệu"
+      contact: "Liên hệ"
+      news: "Tin tức"
+    header:
+      Home: "Trang Chủ"
+      Help: "Trợ giúp"
+      Login: "Đăng nhập"
