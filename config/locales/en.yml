@@ -1,9 +1,10 @@
 en:
+  base_title: "Ruby on Rails Tutorial Sample App"
   static_pages:
     home:
       title: "Home"
       h1_tag: "Sample App"
-      content_html: This is the home page for the <a href="http://www.railstutorial.org/">Ruby on Rails Tutorial</a> sample application.
+      content_html: This is the home page for the <a href="http://ư.railstutorial.org/">Ruby on Rails Tutorial</a> sample application.
     help:
       title: "Help"
       h1_tag: "Help"
