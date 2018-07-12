@@ -1,0 +1,14 @@
+vi:
+  static_pages:
+    home:
+      title: "Trang Chủ"
+      h1_tag: "ứng dụng mẫu"
+      content_html: Đây là trang chủ <a href="http://www.railstutorial.org/">Ruby on Rails Tutorial</a> của ứng dụng mẫu
+    help:
+      title: "Trợ giúp"
+      h1_tag: "Trợ giúp"
+      content_html: Trợ giúp trong Ruby on Rails Tutorial tại  <a href="http://www.railstutorial.org/help">Rails Tutorial help page</a>.Để được trợ giúp trên ứng dụng mẫu, hãy vào đây <a href="http://www.railstutorial.org/book"><em>Ruby on Rails Tutorial</em> book</a>.
+    about:
+      title: "Giới thiệu"
+      h1_tag: "Giới thiệu"
+      content_html: <a href="http://www.railstutorial.org/"><em>Ruby on Rails Tutorial</em></a> là một <a href="http://www.railstutorial.org/book">cuốn sách</a> và <a href="http://screencasts.railstutorial.org/">các bài học </a> dạy lập trình với <a href="http://rubyonrails.org/">Ruby on Rails</a>. Đây là một ứng dụng mẫu trong gíao trình.
