@@ -1,4 +1,6 @@
 vi:
+  welcome_flash: "Mời bạn truy cập vào ứng dụng mẫu"
+  not_flash: "Không tìm thấy người dùng"
   base_title: "Ưngs dụng mẫu Ruby on Rails Tutorial"
   static_pages:
     home:
@@ -23,6 +25,12 @@ vi:
       title: "Đăng ký"
       h1_tag: "Đăng ký"
       content_html: Đây sẽ là một trang đăng ký dành cho người mới sử dụng.
+      name: "Tên"
+      email: "Email"
+      password: "Mật khẩu"
+      password_confirmation: "Xác nhận mật khẩu"
+      confirmation: "Xác nhận"
+      submit: "Tạo một tài khoản"
   layouts:
     footer:
       about: "Giới thiệu"
