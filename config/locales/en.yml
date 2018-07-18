@@ -1,6 +1,7 @@
 en:
   welcome_flash: "Welcome to the Sample App!"
   not_flash: "Not find user"
+  not_confirm: "Invalid email/password combination"
   base_title: "Ruby on Rails Tutorial Sample App"
   static_pages:
     home:
@@ -40,4 +41,18 @@ en:
       Home: "Home"
       Help: "Help"
       Login: "Log In"
+      Profile: "Profile"
+      Settings: "Settings"
+      Logout: "Log out"
+      Users: "Users"
+      Account: "Account"
 
+  sessions:
+    new:
+      title: "Log in"
+      h1_tag: "Log in"
+      email: "Email"
+      password: "Password"
+      submit: "Log in"
+      question: "New user?"
+      suggest: "Sign up now!"

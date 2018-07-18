@@ -1,6 +1,7 @@
 vi:
   welcome_flash: "Mời bạn truy cập vào ứng dụng mẫu"
   not_flash: "Không tìm thấy người dùng"
+  not_confirm: " Email hoặc password không đúng!"
   base_title: "Ưngs dụng mẫu Ruby on Rails Tutorial"
   static_pages:
     home:
@@ -39,4 +40,19 @@ vi:
     header:
       Home: "Trang Chủ"
       Help: "Trợ giúp"
-      Login: "Đăng nhập"
+      Login: "Đăng Nhập"
+      Profile: "Hồ sơ"
+      Settings: "Cài đặt"
+      Logout: "Đăng xuất"
+      Users: "Người dùng"
+      Account: "Tài khoản"
+
+  sessions:
+    new:
+      title: "Đăng Nhập"
+      h1_tag: "Đăng Nhập"
+      email: "Email"
+      password: "Mật khẩu"
+      submit: "Đăng Nhập"
+      question: "Bạn chưa có tài khoản ? "
+      suggest: "Đăng Ký ngay!"
